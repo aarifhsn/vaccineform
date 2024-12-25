@@ -16,6 +16,8 @@ This is a Laravel-based Vaccine Scheduling System that allows user registration,
 ## Features
 
 -   **User Registration**: Accessible via `/registration` route.
+-   **Google Form Registration**: Users can also register via the [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSc8EsJdzivvtd--61YRWvodygVZnDm4ZeCvVmM5LFH5q2WFOg/viewform).
+
 -   **Scheduled Tasks**:
 
     -   **`ProcessVaccinationSchedule`**: Schedules vaccination dates for users.
